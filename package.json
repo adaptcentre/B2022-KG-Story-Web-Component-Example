@@ -8,7 +8,7 @@
   "dependencies": {
     "@babel/core": "^7.17.10",
     "@babel/preset-env": "^7.17.10",
-    "b2022-kg-story": "^0.1.13",
+    "b2022-kg-story": "^0.1.14",
     "babel-loader": "^8.2.5",
     "bootstrap": "^5.1.3",
     "clean-webpack-plugin": "^4.0.0",
